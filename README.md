@@ -42,5 +42,5 @@ graph TD
     H -.-> |Next State Trigger| A
 ```
 ## 📦 Preview 
-<video src="https://x.com/ChngShiyi34142/status/2022840828457034199/video/1" controls="controls" width="100%"></video>
+[![Watch the Demo on X](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://x.com/yourusername/status/your-tweet-id)
 
