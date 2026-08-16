@@ -40,3 +40,7 @@ graph TD
     F --> H
     G --> H
     H -.-> |Next State Trigger| A
+```
+## 📦 Preview
+
+<video src="submission-video-x-qqm4r3l7ugompbq37mgd2l94-pz0g17pcodzi19zq0lpfku6i_fuko70udviezaa9wzoll4a76.mp4" controls="controls" width="100%"></video>
