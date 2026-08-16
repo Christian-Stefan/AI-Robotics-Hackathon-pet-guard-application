@@ -43,5 +43,5 @@ graph TD
 ```
 ## 📦 Preview
 
-<video src="submission-video.mp4" controls="controls" width="100%"></video>
+https://github.com/user-attachments/assets/d3867020-8ede-42ab-bc99-450e1da76cd2
 
