@@ -42,5 +42,5 @@ graph TD
     H -.-> |Next State Trigger| A
 ```
 ## 📦 Preview 
-[![Watch the Demo on X](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://x.com/yourusername/status/your-tweet-id)
+<video src="submission-video.mp4" controls="controls" width="100%"></video>
 
