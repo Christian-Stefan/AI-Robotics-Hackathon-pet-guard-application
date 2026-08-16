@@ -41,6 +41,7 @@ graph TD
     G --> H
     H -.-> |Next State Trigger| A
 ```
-## 📦 Preview 
+## 📦 Preview
+
 <video src="submission-video.mp4" controls="controls" width="100%"></video>
 
